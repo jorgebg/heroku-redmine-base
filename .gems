@@ -1,0 +1,7 @@
+rails --version 2.3.14
+i18n --version 0.4.2
+rack --version 1.1.1
+faker
+random_data
+memcached-northscale
+ruby-openid

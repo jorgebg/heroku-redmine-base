@@ -1,0 +1,16 @@
+= Redmine demo for Heroku
+
+This is an example installation of a working Redmine 1.3.1
+
+You can find a working instance here:
+http://redmine-base.heroku.com
+
+Remember to execute "rake db:migrate" before and after heroku push.
+
+== About Redmine
+Redmine is a flexible project management web application written using Ruby on Rails framework.
+
+More details can be found in the doc directory or on the official website http://www.redmine.org
+
+== About heroku
+http://www.heroku.com
